@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rosanna Bautista<br><br>I'm a UI designer and front-end developer, which basically means I spend my days fixing things I didn’t even break. I'm in my final year of Software Engineering because apparently, I enjoy living on the edge. If I'm not battling an impossible bug, I'm probably designing something users won't even notice but will somehow make their lives easier.<br><br>My biggest achievement so far: not throwing my laptop out the window during the last hackathon. Oh, and I won a couple of awards in a NASA competition, but who's counting?<br><br>Per aspera ad astra, because I need the daily reminder.
+👋 Hi, I'm Rosanna Bautista<br><br>I'm a UX/UI designer and front-end developer, which basically means I spend my days fixing things I didn’t even break. I'm in my final year of Software Engineering because apparently, I enjoy living on the edge. If I'm not battling an impossible bug, I'm probably designing something users won't even notice but will somehow make their lives easier.<br><br>My biggest achievement so far: not throwing my laptop out the window during the last hackathon. Oh, and I won a couple of awards in a NASA competition, but who's counting?<br><br>Per aspera ad astra, because I need the daily reminder.
 
 
 ## 🌐 Socials:

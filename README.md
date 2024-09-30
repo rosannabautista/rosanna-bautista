@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rosanna Bautista<br><br>I'm a UX/UI designer and Front-End developer. If I'm not battling an impossible bug, I'm probably designing something users won't even notice but will somehow make their lives easier.<br><br>Oh, and I won a couple of awards in a NASA HERC, but who's counting?<br><br>Per aspera ad astra.
+👋 Hi, I'm Rosanna Bautista<br><br>I'm a UX/UI designer and Front-End developer. If I'm not battling an impossible bug, I'm probably designing something users won't even notice but will somehow make their lives easier.<br><br>>Per aspera ad astra.
 
 
 ## 🌐 Socials:

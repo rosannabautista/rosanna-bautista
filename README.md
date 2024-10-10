@@ -1,8 +1,8 @@
-# 💫 About Me:
-👋 Hi, I'm Rosanna Bautista<br><br>I'm a UX/UI designer and Front-End developer. If I'm not battling an impossible bug, I'm probably designing something users won't even notice but will somehow make their lives easier.<br><br>Per aspera ad astra.
+# About Me:
+👋 Hi, I'm Rosanna Bautista<br><br>I'm a UX/UI designer and Front-End developer. If I'm not battling an impossible bug, I'm probably designing something users won't even notice but will somehow make their lives easier.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rosanna-bautista) 
 
 # 💻 Tech Stack:
